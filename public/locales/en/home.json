@@ -1,0 +1,190 @@
+{
+  "header": {
+      "title": "Al Anhar Alearabiah",
+      "home": "Home",
+      "aboutUs": "About Us",
+      "services": "Services",
+      "products": "products",
+      "contactUs": "Contact Us",
+      "languages": "Languages"
+  },
+  "footer": {
+      "toTop": "Move to the Top",
+      "desc": "A Saudi company founded in 2005 AD in the city of Riyadh, Kingdom of Saudi Arabia, specializing in supplying and installing water systems, modern irrigation systems, landscaping, greenhouses, and supplying seedlings.",
+      "sendToUs": "send to us",
+      "usefullLinks": "Usefull Links",
+      "whyChooseUs": "Why Choose Us",
+      "copyRight": "Copyrights",
+      "siteName": "Alanhar"
+  },
+  "home": {
+      "hero": {
+          "provideServices": "Provide services",
+          "waterAgricultural": "in water and agricultural systems",
+          "supportDesc": "for support the Kingdom’s Vision 2030",
+          "contactUsBtn": "Contact Us",
+          "downloadBtn": "Download Brochure"
+      },
+      "services": {
+          "our": "our",
+          "services": "services",
+          "product": "Product",
+          "service1": "Green House",
+          "service2": "Steel structures for greenhouses",
+          "service3": "Landscape",
+          "service4": "Watering network",
+          "service5": "water systems",
+          "service6": "maintenance",
+          "product1": "water systems",
+          "product2": "watering network",
+          "product3": "Greenhouse supplies and equipments",
+          "product4": "Landscape and garden supplies and equipments"
+      },
+      "whyChooseUs": {
+          "title1": "Industrial excellence and leadership",
+          "desc1": "achieving a leadership position in the manufacture of water systems, irrigation systems, greenhouses, and landscaping.",
+          "title2": "Providing the best solutions and services",
+          "desc2": "Providing the latest and best water, irrigation, and agricultural systems solutions to customers with a focus on quality and sustainability",
+          "title3": "Technical excellence and innovation",
+          "desc3": "Research and use the latest technologies and innovations in the field of water and irrigation systems to meet customer needs.",
+          "title4": "Support for the Kingdom’s Vision 2030",
+          "desc4": "Providing services that support the sustainable development goals and the Kingdom of Saudi Arabia’s Vision 2030",
+          "whyTo": "Why To",
+          "chooseUs": "Choose Us"
+      },
+      "process": {
+          "title1": "we owns a series of branches for direct sales as well as special warehouses for wholesale sales in most parts of the Kingdom.",
+          "title2": "We have many agencies and brands known locally and internationally.",
+          "title3": "We have a distinguished team of engineers, technicians, and experienced sellers. We are always proud of their presence and continue to support them to always improve.",
+          "title4": "we has a long history of supplying and installing many governmental and private projects in the fields of water extensions, modern irrigation networks, landscape projects, and planting stadiums with natural and artificial turf.",
+          "ourWork": "Our Work",
+          "process": "Process",
+          "showMore": "Show More..."
+      },
+      "testimonials": {
+          "client": "Client",
+          "testimonials": "Testimonials",
+          "testimonialsDesc": "Read what our clients say about our landscaping services and know how we help our customers to get what they expect.",
+          "desc1": "Gardenarea helped me transform my dated, patchwork front yard into an inviting', 'Southern Garden! gardenarea architect Michael Gregory worked.",
+          "title1": "Great ! Garden Designs and Maintenace",
+          "name1": "Mohamed Reda",
+          "job1": "General manager’s word"
+      },
+      "contactUs": {
+          "contact": "Contact",
+          "us": "Us",
+          "contactUsDesc": "Read what our clients say about our landscaping services and know how we help our customers to get what they expect.",
+          "formTitle": "We can help with your emergency situation, Would you like to get your estimate?",
+          "name": "Name",
+          "email": "Email",
+          "phoneNo": "Phone No",
+          "message": "Message",
+          "submitNow": "Submit Now"
+      },
+      "map": {
+          "contactDetails": "Contact Details",
+          "visitUs": "Visit us on",
+          "address": " 7896 Salam Street - 2512 Al-Dubeyah District",
+          "kingdom": "Kingdom of Saudi Arabia,",
+          "riyadh": "Riyadh.",
+          "l§andline": "Landline & Fax",
+          "postalCode": "postal code"
+      }
+  },
+  "about": {
+      "aboutTitle": "About Al Anhar Company",
+      "descTitle": "A Saudi company founded in 2005 AD in the city of Riyadh,",
+      "desc": "The company we owns a series of branches for direct sales as well as special warehouses for wholesale sales in most parts of the Kingdom. We have many agencies and brands known locally and internationally. We have a distinguished team of engineers, technicians, and experienced sellers. We are always proud of their presence and continue to support them to always improve. The company we has a long history of supplying and installing many governmental and private projects in the fields of water extensions, modern irrigation networks, landscape projects, and planting stadiums with natural and artificial turf. Until Arabian Rivers Company became one of the leading companies in this field.",
+      "mission": "Mission",
+      "missionDesc": "Improving the level of services provided to our clients in the fields of water systems, agriculture and agricultural greenhouses to achieve the highest return on investment for our partners.",
+      "vision": "Vision",
+      "visionDesc": "Working to be at the forefront of companies providing services in the field of water and agricultural systems in support of and in line with the Kingdom’s Vision 2030",
+      "goals": {
+          "goals": "Goals",
+          "process1": "Industrial excellence and leadership",
+          "processDesc1": " achieving a leadership position in the manufacture of water systems, irrigation systems, greenhouses, and landscaping",
+          "process2": "Providing the best solutions and services",
+          "processDesc2": "Providing the latest and best water, irrigation, and agricultural systems solutions to customers with a focus on quality and sustainability.",
+          "process3": "Technical excellence and innovation",
+          "processDesc3": "Research and use the latest technologies and innovations in the field of water and irrigation systems to meet customer needs.",
+          "process4": "Support for the Kingdom’s Vision 2030",
+          "processDesc4": "Providing services that support the sustainable development goals and the Kingdom of Saudi Arabia’s Vision 2030.",
+          "process5": "Raising the level of service to customers",
+          "processDesc5": "Improving the level of service provided to customers in the areas of water systems, agriculture, and greenhouses to achieve the highest return on investment.",
+          "process6": "Continuity and success",
+          "processDesc6": "Continue to grow and expand the scope of work to achieve sustainable success in the local and international markets.",
+          "process7": "Strengthening cooperation and partnerships",
+          "processDesc7": "Building strong relationships with customers, partners, and suppliers to enhance cooperation and achieve common interests.",
+          "process8": "These goals reflect",
+          "processDesc8": "Arabian Rivers Company’s commitment to achieving excellence, providing high value to its customers, and contributing to achieving development and sustainability goals in the Kingdom of Saudi Arabia."
+      },
+      "chooseUs": {
+          "general": "General",
+          "manager": "manager’s word",
+          "desc": "Since the establishment of Al Anhar Arabian Company for Irrigation and Agriculture Systems in 2005, we have had a clear goal, which is to try to provide our customers with the latest solutions for water systems, irrigation systems, agriculture, greenhouses, and landscaping, in a way that helps contracting companies, agricultural companies, and farmers obtain the latest water and irrigation systems technologies with the best materials, the best prices, and the provision of staff"
+      }
+  },
+  "services": {
+      "title": "Services Overview",
+      "green": "Green",
+      "house": "House",
+      "greenHouse": {
+          "card1": "Ordinary greenhouses",
+          "cardDesc1": "Seasonal farming only",
+          "card2": "Air-conditioned greenhouses",
+          "cardDesc2": "Cultivation throughout the year",
+          "card3": "Multi-arched agricultural halls",
+          "cardDesc3": "Cultivation throughout the year",
+          "card4": "Multi-unit agricultural halls",
+          "cardDesc4": "Cultivation throughout the year",
+          "card5": "Venlo halls",
+          "cardDesc5": "Cultivation throughout the year",
+          "card6": "Gothic halls",
+          "cardDesc6": "Cultivation throughout the year"
+      },
+      "steelStructures": {
+          "steelStructuresTitle": "Steel structures for",
+          "greenhouses": "greenhouses",
+          "ironStructures": "Iron structures for greenhouses",
+          "saudiIndustry": "Saudi industry from Al Anhar Alearabiah",
+          "steelStructures": {
+              "regularGreenhouse": "Regular greenhouse",
+              "structures": "structures CT.56 / CT.40",
+              "inFormTunnels": "in the form of tunnels",
+              "airConditioned": "Air-conditioned greenhouse",
+              "structuresACFGACPL": "structures ACFG or ACPL",
+              "structuresACFGs": "structures ACFGs",
+              "listofSides": "List of Sides",
+              "multiArched": "Multi-arched agricultural",
+              "hallStructures": "hall structures",
+              "archedCeilings": "arched ceilings",
+              "communication": "Communication  structures",
+              "trussRoofs": "truss roofs"
+          },
+          "importedData": {
+              "multiArchedAgricultural": "Multi-arched agricultural hall structures Gothic",
+              "multiUnitagriculturalHall": "Multi-unit agricultural hall structures Venlo"
+          },
+          "landscape": {
+              "land": "Land",
+              "scape": "scape",
+              "card1Title": "Design and implementation of gardens and parks",
+              "card2Title": "Artificial grass",
+              "watering": "Watering",
+              "network": "network",
+              "card3Title": "Irrigation networks",
+              "card4Title": "drip irrigation",
+              "water": "water",
+              "systems": "systems",
+              "card5Title": "Design and implementation",
+              "card6Title": "Artificial grass",
+              "main": "Main",
+              "tenance": "tenance",
+              "card7Title": "Design and implementation",
+              "card8Title": "Artificial grass"
+          },
+          "forGreenhouses": "Iron structures for greenhouses",
+          "imported": "Imported from Al Anhar Alearabiah"
+      }
+  }
+}
